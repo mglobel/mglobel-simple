@@ -200,6 +200,7 @@ p {
 
 .form-wrapper.squeezed {
   max-width: 800px;
+  margin-top: 15px;
   padding-right: 19%;
   padding-left: 0%;
 }
@@ -334,6 +335,34 @@ p {
   padding-top: 20px;
   padding-bottom: 29px;
   text-align: center;
+}
+
+.skills-matrix {
+  display: block;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.skill-bar {
+  width: 80%;
+  height: 40px;
+  border-radius: 30px;
+  background-color: #c42532;
+}
+
+.javascript-skill-bar {
+  width: 50%;
+  height: 40px;
+  border-radius: 30px;
+  background-color: #3579a7;
+}
+
+.html-skill-bar {
+  width: 70%;
+  height: 40px;
+  border-radius: 30px;
+  background-color: #ff8500;
 }
 
 @media (max-width: 991px) {
