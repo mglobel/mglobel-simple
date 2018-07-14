@@ -365,6 +365,12 @@ p {
   background-color: #ff8500;
 }
 
+.image-7 {
+  width: 100%;
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+}
+
 @media (max-width: 991px) {
   .header {
     background-image: url('../images/IMG_20180619_204812.jpg');
